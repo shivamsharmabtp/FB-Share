@@ -1,0 +1,29 @@
+Hare Krishna,
+
+Please follow the following steps to use this project.
+
+1. Open data.js
+2. Add your email, password
+3. Add link of groups you want to post in place of sample group links. Note the account should have permission to post in those groups.
+4. Write your post in place of sample post written.
+5. Install NodeJS
+    If nodejs is installed in your computer than you can skip this step
+    otherwise you can install nodejs from here 
+    Windows - https://phoenixnap.com/kb/install-node-js-npm-on-windows
+    Linux - https://www.geeksforgeeks.org/installation-of-node-js-on-linux/
+    Mac - https://nodesource.com/blog/installing-nodejs-tutorial-mac-os-x/
+
+    You can check if everything is installed by typing
+    node -v
+    npm -v
+    in command line. this will give version of node and npm installed.
+6. Open command prompt and go to folder location
+7. type 'npm install' and press enter
+8. type 'node index.js'
+9. All done.. Sit back and watch code spreading your post.
+
+In case of any issue feel free to contact.
+
+Ys Shivam
+Phone/Whatsapp - 9024519681
+Email - shivamsharma.btp@gmail.com
